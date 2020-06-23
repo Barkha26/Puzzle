@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Multiple" size="1.000000 1.512397" />
+    <ImageTarget name="Addition" size="1.000000 1.512397" />
+    <ImageTarget name="Subtract" size="1.000000 1.512397" />
+    <ImageTarget name="Divide" size="1.000000 1.512397" />
+    <ImageTarget name="One_Two" size="1.000000 1.512397" />
+    <ImageTarget name="Two_Two" size="1.000000 1.512397" />
+    <ImageTarget name="Three_Two" size="1.000000 1.512397" />
+    <ImageTarget name="Four_Two" size="1.000000 1.512397" />
+    <ImageTarget name="One_Three" size="1.000000 1.512397" />
+    <ImageTarget name="Two_Three" size="1.000000 1.512397" />
+    <ImageTarget name="Three_Three" size="1.000000 1.512397" />
+    <ImageTarget name="Four_Three" size="1.000000 1.512397" />
+    <ImageTarget name="One_Four" size="1.000000 1.512397" />
+    <ImageTarget name="Two_Four" size="1.000000 1.512397" />
+    <ImageTarget name="Three_Four" size="1.000000 1.512397" />
+    <ImageTarget name="Four_Four" size="1.000000 1.512397" />
+    <ImageTarget name="One_Five" size="1.000000 1.512397" />
+    <ImageTarget name="Two_Five" size="1.000000 1.512397" />
+    <ImageTarget name="Three_Five" size="1.000000 1.512397" />
+    <ImageTarget name="Four_Five" size="1.000000 1.512397" />
+    <ImageTarget name="One_Six" size="1.000000 1.512397" />
+    <ImageTarget name="Two_Six" size="1.000000 1.512397" />
+    <ImageTarget name="Three_Six" size="1.000000 1.512397" />
+    <ImageTarget name="Four_Six" size="1.000000 1.512397" />
+    <ImageTarget name="One_Seven" size="1.000000 1.512397" />
+    <ImageTarget name="Two_Seven" size="1.000000 1.512397" />
+    <ImageTarget name="Three_Seven" size="1.000000 1.512397" />
+    <ImageTarget name="Four_Seven" size="1.000000 1.512397" />
+    <ImageTarget name="One_Eight" size="1.000000 1.512397" />
+    <ImageTarget name="Two_Eight" size="1.000000 1.512397" />
+    <ImageTarget name="Three_Eight" size="1.000000 1.512397" />
+    <ImageTarget name="Four_Eight" size="1.000000 1.512397" />
+    <ImageTarget name="One_Nine" size="1.000000 1.512397" />
+    <ImageTarget name="Two_Nine" size="1.000000 1.512397" />
+    <ImageTarget name="Four_Nine" size="1.000000 1.512397" />
+    <ImageTarget name="Three_Nine" size="1.000000 1.512397" />
+    <ImageTarget name="One_Zero" size="1.000000 1.512397" />
+    <ImageTarget name="Two_Zero" size="1.000000 1.512397" />
+    <ImageTarget name="Three_Zero" size="1.000000 1.512397" />
+    <ImageTarget name="Four_Zero" size="1.000000 1.512397" />
+    <ImageTarget name="One_One" size="1.000000 1.512397" />
+    <ImageTarget name="Two_One" size="1.000000 1.512397" />
+    <ImageTarget name="Three_One" size="1.000000 1.512397" />
+    <ImageTarget name="Four_One" size="1.000000 1.512397" />
+    <ImageTarget name="Equal" size="1.000000 1.399323" />
+  </Tracking>
+</QCARConfig>
